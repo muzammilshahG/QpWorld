@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary App Colors -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#FFA000</color>
+
+    <!-- Price Status Colors -->
+    <color name="colorMehnga">#D32F2F</color>
+    <color name="colorMehngaLight">#FFEBEE</color>
+    <color name="colorSasta">#388E3C</color>
+    <color name="colorSastaLight">#E8F5E9</color>
+    <color name="colorNeutral">#757575</color>
+
+    <!-- Card Background Colors -->
+    <color name="cardMehnga">#FFF8F8</color>
+    <color name="cardSasta">#F8FFF8</color>
+    <color name="cardNeutral">#FAFAFA</color>
+
+    <!-- General -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="textPrimary">#1A1A1A</color>
+    <color name="textSecondary">#777777</color>
+</resources>

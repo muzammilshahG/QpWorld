@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QpWorld</string>
+    <string name="tagline">قیمتوں کی دنیا</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">ہوم</string>
+    <string name="nav_countries">ممالک</string>
+    <string name="nav_settings">ترتیبات</string>
+
+    <!-- Prices -->
+    <string name="price_increased">📈 مہنگا ہوا</string>
+    <string name="price_decreased">📉 سستا ہوا</string>
+    <string name="price_stable">➡️ مستحکم</string>
+    <string name="why_title">وجہ کیا ہے؟</string>
+    <string name="alternative_title">💡 سستا متبادل</string>
+    <string name="last_updated">آخری اپڈیٹ</string>
+
+    <!-- Ads -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
